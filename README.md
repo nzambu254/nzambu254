@@ -26,7 +26,7 @@ I'm a passionate **Mobile App Developer** from Eldoret, Kenya, with a strong fou
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephMuthini20&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzambu254&layout=compact&theme=radical)
 
 ## ✨ Fun Facts
 
