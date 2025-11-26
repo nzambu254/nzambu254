@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joseph Nzambu - Full Stack Developer
+# 👋 Hi, I'm  - Full Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nzambu254&color=blue&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/nzambu254?style=social)
