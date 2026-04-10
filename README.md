@@ -33,11 +33,6 @@ I'm a passionate **Full Stack Developer**  with expertise in building scalable, 
 - 🚴 **Adventure Seeker** - When not coding, I'm exploring new places on my bike
 - ☕ **Coffee Enthusiast** - Fueled by coffee and passion for development
 
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ---
 
 <div align="center">
