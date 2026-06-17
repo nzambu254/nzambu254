@@ -10,8 +10,7 @@
 
 I'm **Nzambu**, a passionate **Full Stack Developer** building scalable web and mobile applications across SaaS, education, and enterprise platforms.
 
-- 🔭 Building **SaaS platforms** 
-- 🛠️ Specialising in **php · React · vue.js · Android development**
+- 🛠️ Specialising in **Laravel/php · React · Flutter/android · vue**
 - 🌍 Based in Kenya 🇰🇪
 - ☕ Fuelled by coffee and a refusal to be average
 
@@ -42,9 +41,9 @@ I'm **Nzambu**, a passionate **Full Stack Developer** building scalable web and 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&l
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -52,9 +51,11 @@ I'm **Nzambu**, a passionate **Full Stack Developer** building scalable web and 
 
 <div align="center">
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzambu254l&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nzambu254&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nzambu254&theme=radical&hide_bo
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nzambu254&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -62,7 +63,7 @@ I'm **Nzambu**, a passionate **Full Stack Developer** building scalable web and 
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzambul&hide_border=true&langs_count=8&exclude_repo=)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzambu254&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
