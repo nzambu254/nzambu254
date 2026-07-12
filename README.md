@@ -1,4 +1,4 @@
-# 💀 The Fear of Being Average
+# 💀 Inspired by The Fear of Being Average
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nzambu254&color=blueviolet&style=for-the-badge)
 [![GitHub Followers](https://img.shields.io/github/followers/nzambu254?style=for-the-badge&logo=github&color=blue&label=Followers)](https://github.com/nzambu254?tab=followers)
